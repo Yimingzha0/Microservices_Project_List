@@ -105,7 +105,7 @@ This projects, are not ready for production.
 | Spring PetClinic | [link](https://github.com/spring-petclinic/spring-petclinic-microservices) | Java | Spring | |
 | Spring Petclinic Migration to AWS | [link](https://github.com/aws-samples/amazon-ecs-java-microservices) | Java | Spring | |
 | SpringBoot Microservices: | [link](https://github.com/oktadeveloper/spring-boot-microservices-example) | Java | Spring | |
-| SpringBoot Microservices Blog Series: | [link](https://github.com/sivaprasadreddy/spring-boot-microservices-series) | Java | Spring | |
+|~~ SpringBoot Microservices Blog Series:~~ | [link](https://github.com/sivaprasadreddy/spring-boot-microservices-series) | Java | Spring | |
 | StaffJoy V1 (Abandoned) : [link](https://github.com/Staffjoy/V2) | | | 
 | StaffJoy V2 : [link](https://github.com/LandRover/StaffjoyV2) | | | 
 | Tap-And-Eat (Spring Cloud) | [link](https://github.com/jferrater/Tap-And-Eat-MicroServices) | Java | Spring | 8 |
